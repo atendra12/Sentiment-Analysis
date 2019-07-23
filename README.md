@@ -10,4 +10,4 @@ Though it is still an area of research but below are 3 ways we can implement sen
 2) Traditional bag of word model with Tf-idf
 3) State of art deep learning models (Doc2Vec) 
 
-After Implementing all the above techniques on IMDb movie reviews, One can find that Doc2Vec models are really working well for sentmiment Analysis. We have acheived 92% accuracy on test data.
+After Implementing all the above techniques on IMDb movie reviews, One can find that Doc2Vec models are really working well for sentmiment Analysis. I've acheived 92% accuracy on test data.
